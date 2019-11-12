@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 72d623c5c05e8554fa947aa2d9d5ab0b
+timeCreated: 1526850013
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - fireTransform: {fileID: 4671012779919642, guid: e31fd12e2d44aa9469600e68e21c6b0e,
+      type: 2}
+  - card: {fileID: 54373131624744428, guid: e31fd12e2d44aa9469600e68e21c6b0e, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

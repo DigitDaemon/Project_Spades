@@ -1,0 +1,65 @@
+C:\Users\Lloyd\Documents\School\GameDev\Spades3D\Spades3D\Temp\bin\Debug\Assembly-CSharp.dll
+C:\Users\Lloyd\Documents\School\GameDev\Spades3D\Spades3D\Temp\bin\Debug\Assembly-CSharp.pdb
+C:\Users\Lloyd\Documents\School\GameDev\Spades3D\Spades3D\Temp\bin\Debug\UnityEditor.dll
+C:\Users\Lloyd\Documents\School\GameDev\Spades3D\Spades3D\Temp\bin\Debug\UnityEngine.Analytics.dll
+C:\Users\Lloyd\Documents\School\GameDev\Spades3D\Spades3D\Temp\bin\Debug\UnityEngine.dll
+C:\Users\Lloyd\Documents\School\GameDev\Spades3D\Spades3D\Temp\bin\Debug\UnityEngine.HoloLens.dll
+C:\Users\Lloyd\Documents\School\GameDev\Spades3D\Spades3D\Temp\bin\Debug\UnityEngine.Networking.dll
+C:\Users\Lloyd\Documents\School\GameDev\Spades3D\Spades3D\Temp\bin\Debug\UnityEngine.PlaymodeTestsRunner.dll
+C:\Users\Lloyd\Documents\School\GameDev\Spades3D\Spades3D\Temp\bin\Debug\UnityEngine.UI.dll
+C:\Users\Lloyd\Documents\School\GameDev\Spades3D\Spades3D\Temp\bin\Debug\UnityEngine.VR.dll
+C:\Users\Lloyd\Documents\School\GameDev\Spades3D\Spades3D\Temp\bin\Debug\Mono.Cecil.dll
+C:\Users\Lloyd\Documents\School\GameDev\Spades3D\Spades3D\Temp\bin\Debug\Unity.SerializationLogic.dll
+C:\Users\Lloyd\Documents\School\GameDev\Spades3D\Spades3D\Temp\bin\Debug\Unity.DataContract.dll
+C:\Users\Lloyd\Documents\School\GameDev\Spades3D\Spades3D\Temp\bin\Debug\ICSharpCode.NRefactory.dll
+C:\Users\Lloyd\Documents\School\GameDev\Spades3D\Spades3D\Temp\bin\Debug\Unity.UNetWeaver.dll
+C:\Users\Lloyd\Documents\School\GameDev\Spades3D\Spades3D\Temp\bin\Debug\Unity.CecilTools.dll
+C:\Users\Lloyd\Documents\School\GameDev\Spades3D\Spades3D\Temp\bin\Debug\Mono.Cecil.Pdb.dll
+C:\Users\Lloyd\Documents\School\GameDev\Spades3D\Spades3D\Temp\bin\Debug\Mono.Cecil.Mdb.dll
+C:\Users\Lloyd\Documents\School\GameDev\Spades3D\Spades3D\Temp\bin\Debug\UnityEngine.xml
+C:\Users\Lloyd\Documents\School\GameDev\Spades3D\Spades3D\Temp\bin\Debug\UnityEditor.xml
+C:\Users\Lloyd\Documents\School\GameDev\Spades3D\Spades3D\Temp\bin\Debug\UnityEngine.UI.xml
+C:\Users\Lloyd\Documents\School\GameDev\Spades3D\Spades3D\Temp\bin\Debug\UnityEngine.Networking.xml
+C:\Users\Lloyd\Documents\School\GameDev\Spades3D\Spades3D\Temp\bin\Debug\UnityEngine.PlaymodeTestsRunner.xml
+C:\Users\Lloyd\Documents\School\GameDev\Spades3D\Spades3D\Temp\bin\Debug\UnityEngine.Analytics.xml
+C:\Users\Lloyd\Documents\School\GameDev\Spades3D\Spades3D\Temp\bin\Debug\UnityEngine.HoloLens.xml
+C:\Users\Lloyd\Documents\School\GameDev\Spades3D\Spades3D\Temp\bin\Debug\UnityEngine.VR.xml
+C:\Users\Lloyd\Documents\School\GameDev\Spades3D\Spades3D\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
+C:\Users\Lloyd\Documents\School\GameDev\Spades3D\Spades3D\obj\Debug\Assembly-CSharp.dll
+C:\Users\Lloyd\Documents\School\GameDev\Spades3D\Spades3D\obj\Debug\Assembly-CSharp.pdb
+C:\Users\Lloyd\Documents\School\GameDev\Spades3DTom_5-13\Spades3D\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
+C:\Users\Lloyd\Documents\School\GameDev\Spades3DTom_5-13\Spades3D\obj\Debug\Assembly-CSharp.dll
+C:\Users\Lloyd\Documents\School\GameDev\Spades3DTom_5-13\Spades3D\obj\Debug\Assembly-CSharp.pdb
+S:\Libraries\My Documents\Cal Poly Pomona\cs470\Rouge Fence\Project Spades\Final Build\Spades3D\Temp\bin\Debug\Assembly-CSharp.dll
+S:\Libraries\My Documents\Cal Poly Pomona\cs470\Rouge Fence\Project Spades\Final Build\Spades3D\Temp\bin\Debug\Assembly-CSharp.pdb
+S:\Libraries\My Documents\Cal Poly Pomona\cs470\Rouge Fence\Project Spades\Final Build\Spades3D\Temp\bin\Debug\Mono.Cecil.dll
+S:\Libraries\My Documents\Cal Poly Pomona\cs470\Rouge Fence\Project Spades\Final Build\Spades3D\Temp\bin\Debug\nunit.framework.dll
+S:\Libraries\My Documents\Cal Poly Pomona\cs470\Rouge Fence\Project Spades\Final Build\Spades3D\Temp\bin\Debug\TextMeshPro-2017.3-Editor.dll
+S:\Libraries\My Documents\Cal Poly Pomona\cs470\Rouge Fence\Project Spades\Final Build\Spades3D\Temp\bin\Debug\TextMeshPro-2017.3-Runtime.dll
+S:\Libraries\My Documents\Cal Poly Pomona\cs470\Rouge Fence\Project Spades\Final Build\Spades3D\Temp\bin\Debug\UnityEditor.dll
+S:\Libraries\My Documents\Cal Poly Pomona\cs470\Rouge Fence\Project Spades\Final Build\Spades3D\Temp\bin\Debug\UnityEngine.Analytics.dll
+S:\Libraries\My Documents\Cal Poly Pomona\cs470\Rouge Fence\Project Spades\Final Build\Spades3D\Temp\bin\Debug\UnityEngine.dll
+S:\Libraries\My Documents\Cal Poly Pomona\cs470\Rouge Fence\Project Spades\Final Build\Spades3D\Temp\bin\Debug\UnityEngine.HoloLens.dll
+S:\Libraries\My Documents\Cal Poly Pomona\cs470\Rouge Fence\Project Spades\Final Build\Spades3D\Temp\bin\Debug\UnityEngine.Networking.dll
+S:\Libraries\My Documents\Cal Poly Pomona\cs470\Rouge Fence\Project Spades\Final Build\Spades3D\Temp\bin\Debug\UnityEngine.TestRunner.dll
+S:\Libraries\My Documents\Cal Poly Pomona\cs470\Rouge Fence\Project Spades\Final Build\Spades3D\Temp\bin\Debug\UnityEngine.UI.dll
+S:\Libraries\My Documents\Cal Poly Pomona\cs470\Rouge Fence\Project Spades\Final Build\Spades3D\Temp\bin\Debug\UnityEngine.VR.dll
+S:\Libraries\My Documents\Cal Poly Pomona\cs470\Rouge Fence\Project Spades\Final Build\Spades3D\Temp\bin\Debug\Unity.SerializationLogic.dll
+S:\Libraries\My Documents\Cal Poly Pomona\cs470\Rouge Fence\Project Spades\Final Build\Spades3D\Temp\bin\Debug\Unity.DataContract.dll
+S:\Libraries\My Documents\Cal Poly Pomona\cs470\Rouge Fence\Project Spades\Final Build\Spades3D\Temp\bin\Debug\ICSharpCode.NRefactory.dll
+S:\Libraries\My Documents\Cal Poly Pomona\cs470\Rouge Fence\Project Spades\Final Build\Spades3D\Temp\bin\Debug\Unity.UNetWeaver.dll
+S:\Libraries\My Documents\Cal Poly Pomona\cs470\Rouge Fence\Project Spades\Final Build\Spades3D\Temp\bin\Debug\Unity.CecilTools.dll
+S:\Libraries\My Documents\Cal Poly Pomona\cs470\Rouge Fence\Project Spades\Final Build\Spades3D\Temp\bin\Debug\Mono.Cecil.Pdb.dll
+S:\Libraries\My Documents\Cal Poly Pomona\cs470\Rouge Fence\Project Spades\Final Build\Spades3D\Temp\bin\Debug\Mono.Cecil.Mdb.dll
+S:\Libraries\My Documents\Cal Poly Pomona\cs470\Rouge Fence\Project Spades\Final Build\Spades3D\Temp\bin\Debug\UnityEngine.xml
+S:\Libraries\My Documents\Cal Poly Pomona\cs470\Rouge Fence\Project Spades\Final Build\Spades3D\Temp\bin\Debug\UnityEditor.xml
+S:\Libraries\My Documents\Cal Poly Pomona\cs470\Rouge Fence\Project Spades\Final Build\Spades3D\Temp\bin\Debug\UnityEngine.UI.xml
+S:\Libraries\My Documents\Cal Poly Pomona\cs470\Rouge Fence\Project Spades\Final Build\Spades3D\Temp\bin\Debug\UnityEngine.Networking.xml
+S:\Libraries\My Documents\Cal Poly Pomona\cs470\Rouge Fence\Project Spades\Final Build\Spades3D\Temp\bin\Debug\UnityEngine.TestRunner.xml
+S:\Libraries\My Documents\Cal Poly Pomona\cs470\Rouge Fence\Project Spades\Final Build\Spades3D\Temp\bin\Debug\nunit.framework.xml
+S:\Libraries\My Documents\Cal Poly Pomona\cs470\Rouge Fence\Project Spades\Final Build\Spades3D\Temp\bin\Debug\UnityEngine.Analytics.xml
+S:\Libraries\My Documents\Cal Poly Pomona\cs470\Rouge Fence\Project Spades\Final Build\Spades3D\Temp\bin\Debug\UnityEngine.HoloLens.xml
+S:\Libraries\My Documents\Cal Poly Pomona\cs470\Rouge Fence\Project Spades\Final Build\Spades3D\Temp\bin\Debug\UnityEngine.VR.xml
+S:\Libraries\My Documents\Cal Poly Pomona\cs470\Rouge Fence\Project Spades\Final Build\Spades3D\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
+S:\Libraries\My Documents\Cal Poly Pomona\cs470\Rouge Fence\Project Spades\Final Build\Spades3D\obj\Debug\Assembly-CSharp.dll
+S:\Libraries\My Documents\Cal Poly Pomona\cs470\Rouge Fence\Project Spades\Final Build\Spades3D\obj\Debug\Assembly-CSharp.pdb

@@ -1,0 +1,14 @@
+ProjectSpades is a game prototype made by RougueFence fof cs470
+RogueFence members include:
+Thomas Landry
+Tony Lai
+Llyod Zhang
+Anthony Guerrero
+Gerardo Leon
+Jason Kwok
+
+Controls:
+w/a/s/d moves the player character
+left mouse button fires projectiles
+e holds cards
+r shuffles
